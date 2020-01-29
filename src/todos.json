@@ -1,0 +1,28 @@
+{
+    "todos":[
+        {
+            "Equipo": "Equipo 1",
+            "ID":  "ID1",
+            "Modelo": "modelo1",
+            "CPU": "CPU1",
+            "RAM": "RAM1",
+            "HDD": "HDD1"
+        },
+        {
+            "Equipo": "Equipo 2",
+            "ID":  "ID2",
+            "Modelo": "modelo2",
+            "CPU": "CPU2",
+            "RAM": "RAM2",
+            "HDD": "HDD2"
+        },
+        {
+            "Equipo": "Equipo 3",
+            "ID":  "ID3",
+            "Modelo": "modelo3",
+            "CPU": "CPU3",
+            "RAM": "RAM3",
+            "HDD": "HDD3"
+        }
+    ]
+}
